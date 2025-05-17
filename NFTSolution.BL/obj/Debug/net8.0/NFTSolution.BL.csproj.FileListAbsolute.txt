@@ -1,0 +1,15 @@
+C:\Users\Acer\source\repos\NFTSolution\NFTSolution.BL\bin\Debug\net8.0\NFTSolution.BL.deps.json
+C:\Users\Acer\source\repos\NFTSolution\NFTSolution.BL\bin\Debug\net8.0\NFTSolution.BL.dll
+C:\Users\Acer\source\repos\NFTSolution\NFTSolution.BL\bin\Debug\net8.0\NFTSolution.BL.pdb
+C:\Users\Acer\source\repos\NFTSolution\NFTSolution.BL\bin\Debug\net8.0\NFTSolution.DAL.dll
+C:\Users\Acer\source\repos\NFTSolution\NFTSolution.BL\bin\Debug\net8.0\NFTSolution.DAL.pdb
+C:\Users\Acer\source\repos\NFTSolution\NFTSolution.BL\obj\Debug\net8.0\NFTSolution.BL.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\NFTSolution\NFTSolution.BL\obj\Debug\net8.0\NFTSolution.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\NFTSolution\NFTSolution.BL\obj\Debug\net8.0\NFTSolution.BL.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\NFTSolution\NFTSolution.BL\obj\Debug\net8.0\NFTSolution.BL.AssemblyInfo.cs
+C:\Users\Acer\source\repos\NFTSolution\NFTSolution.BL\obj\Debug\net8.0\NFTSolution.BL.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\NFTSolution\NFTSolution.BL\obj\Debug\net8.0\NFTSolut.B0B88D89.Up2Date
+C:\Users\Acer\source\repos\NFTSolution\NFTSolution.BL\obj\Debug\net8.0\NFTSolution.BL.dll
+C:\Users\Acer\source\repos\NFTSolution\NFTSolution.BL\obj\Debug\net8.0\refint\NFTSolution.BL.dll
+C:\Users\Acer\source\repos\NFTSolution\NFTSolution.BL\obj\Debug\net8.0\NFTSolution.BL.pdb
+C:\Users\Acer\source\repos\NFTSolution\NFTSolution.BL\obj\Debug\net8.0\ref\NFTSolution.BL.dll

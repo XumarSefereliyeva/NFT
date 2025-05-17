@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\NFTSolution\NFTSolution.DAL\bin\Debug\net8.0\NFTSolution.DAL.deps.json
+C:\Users\Acer\source\repos\NFTSolution\NFTSolution.DAL\bin\Debug\net8.0\NFTSolution.DAL.dll
+C:\Users\Acer\source\repos\NFTSolution\NFTSolution.DAL\bin\Debug\net8.0\NFTSolution.DAL.pdb
+C:\Users\Acer\source\repos\NFTSolution\NFTSolution.DAL\obj\Debug\net8.0\NFTSolution.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\NFTSolution\NFTSolution.DAL\obj\Debug\net8.0\NFTSolution.DAL.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\NFTSolution\NFTSolution.DAL\obj\Debug\net8.0\NFTSolution.DAL.AssemblyInfo.cs
+C:\Users\Acer\source\repos\NFTSolution\NFTSolution.DAL\obj\Debug\net8.0\NFTSolution.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\NFTSolution\NFTSolution.DAL\obj\Debug\net8.0\NFTSolution.DAL.dll
+C:\Users\Acer\source\repos\NFTSolution\NFTSolution.DAL\obj\Debug\net8.0\refint\NFTSolution.DAL.dll
+C:\Users\Acer\source\repos\NFTSolution\NFTSolution.DAL\obj\Debug\net8.0\NFTSolution.DAL.pdb
+C:\Users\Acer\source\repos\NFTSolution\NFTSolution.DAL\obj\Debug\net8.0\ref\NFTSolution.DAL.dll
+C:\Users\Acer\source\repos\NFTSolution\NFTSolution.DAL\bin\Debug\net8.0\NFTSolution.DAL.runtimeconfig.json
+C:\Users\Acer\source\repos\NFTSolution\NFTSolution.DAL\obj\Debug\net8.0\NFTSolution.DAL.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\NFTSolution\NFTSolution.DAL\obj\Debug\net8.0\NFTSolution.DAL.genruntimeconfig.cache

@@ -1,0 +1,361 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\source\\repos\\NFTSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D86D543-701B-448A-B464-5750CDB5138F}|NFTSolution.MVC\\NFTSolution.MVC.csproj|c:\\users\\acer\\source\\repos\\nftsolution\\nftsolution.mvc\\areas\\admin\\views\\market\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D86D543-701B-448A-B464-5750CDB5138F}|NFTSolution.MVC\\NFTSolution.MVC.csproj|solutionrelative:nftsolution.mvc\\areas\\admin\\views\\market\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D86D543-701B-448A-B464-5750CDB5138F}|NFTSolution.MVC\\NFTSolution.MVC.csproj|c:\\users\\acer\\source\\repos\\nftsolution\\nftsolution.mvc\\areas\\admin\\views\\market\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D86D543-701B-448A-B464-5750CDB5138F}|NFTSolution.MVC\\NFTSolution.MVC.csproj|solutionrelative:nftsolution.mvc\\areas\\admin\\views\\market\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D86D543-701B-448A-B464-5750CDB5138F}|NFTSolution.MVC\\NFTSolution.MVC.csproj|c:\\users\\acer\\source\\repos\\nftsolution\\nftsolution.mvc\\areas\\admin\\views\\market\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D86D543-701B-448A-B464-5750CDB5138F}|NFTSolution.MVC\\NFTSolution.MVC.csproj|solutionrelative:nftsolution.mvc\\areas\\admin\\views\\market\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D86D543-701B-448A-B464-5750CDB5138F}|NFTSolution.MVC\\NFTSolution.MVC.csproj|c:\\users\\acer\\source\\repos\\nftsolution\\nftsolution.mvc\\areas\\admin\\views\\market\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D86D543-701B-448A-B464-5750CDB5138F}|NFTSolution.MVC\\NFTSolution.MVC.csproj|solutionrelative:nftsolution.mvc\\areas\\admin\\views\\market\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D86D543-701B-448A-B464-5750CDB5138F}|NFTSolution.MVC\\NFTSolution.MVC.csproj|c:\\users\\acer\\source\\repos\\nftsolution\\nftsolution.mvc\\areas\\admin\\controllers\\marketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D86D543-701B-448A-B464-5750CDB5138F}|NFTSolution.MVC\\NFTSolution.MVC.csproj|solutionrelative:nftsolution.mvc\\areas\\admin\\controllers\\marketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDADC11B-7C70-43F4-BF5E-484A8EC75C4B}|NFTSolution.BL\\NFTSolution.BL.csproj|c:\\users\\acer\\source\\repos\\nftsolution\\nftsolution.bl\\services\\marketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDADC11B-7C70-43F4-BF5E-484A8EC75C4B}|NFTSolution.BL\\NFTSolution.BL.csproj|solutionrelative:nftsolution.bl\\services\\marketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D86D543-701B-448A-B464-5750CDB5138F}|NFTSolution.MVC\\NFTSolution.MVC.csproj|c:\\users\\acer\\source\\repos\\nftsolution\\nftsolution.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D86D543-701B-448A-B464-5750CDB5138F}|NFTSolution.MVC\\NFTSolution.MVC.csproj|solutionrelative:nftsolution.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D86D543-701B-448A-B464-5750CDB5138F}|NFTSolution.MVC\\NFTSolution.MVC.csproj|c:\\users\\acer\\source\\repos\\nftsolution\\nftsolution.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D86D543-701B-448A-B464-5750CDB5138F}|NFTSolution.MVC\\NFTSolution.MVC.csproj|solutionrelative:nftsolution.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D86D543-701B-448A-B464-5750CDB5138F}|NFTSolution.MVC\\NFTSolution.MVC.csproj|c:\\users\\acer\\source\\repos\\nftsolution\\nftsolution.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D86D543-701B-448A-B464-5750CDB5138F}|NFTSolution.MVC\\NFTSolution.MVC.csproj|solutionrelative:nftsolution.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D86D543-701B-448A-B464-5750CDB5138F}|NFTSolution.MVC\\NFTSolution.MVC.csproj|c:\\users\\acer\\source\\repos\\nftsolution\\nftsolution.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D86D543-701B-448A-B464-5750CDB5138F}|NFTSolution.MVC\\NFTSolution.MVC.csproj|solutionrelative:nftsolution.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D86D543-701B-448A-B464-5750CDB5138F}|NFTSolution.MVC\\NFTSolution.MVC.csproj|c:\\users\\acer\\source\\repos\\nftsolution\\nftsolution.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D86D543-701B-448A-B464-5750CDB5138F}|NFTSolution.MVC\\NFTSolution.MVC.csproj|solutionrelative:nftsolution.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A81E33-F767-4381-A017-341F75EBA211}|NFTSolution.DAL\\NFTSolution.DAL.csproj|c:\\users\\acer\\source\\repos\\nftsolution\\nftsolution.dal\\models\\market.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A81E33-F767-4381-A017-341F75EBA211}|NFTSolution.DAL\\NFTSolution.DAL.csproj|solutionrelative:nftsolution.dal\\models\\market.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A81E33-F767-4381-A017-341F75EBA211}|NFTSolution.DAL\\NFTSolution.DAL.csproj|c:\\users\\acer\\source\\repos\\nftsolution\\nftsolution.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A81E33-F767-4381-A017-341F75EBA211}|NFTSolution.DAL\\NFTSolution.DAL.csproj|solutionrelative:nftsolution.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDADC11B-7C70-43F4-BF5E-484A8EC75C4B}|NFTSolution.BL\\NFTSolution.BL.csproj|c:\\users\\acer\\source\\repos\\nftsolution\\nftsolution.bl\\exceptions\\marketexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDADC11B-7C70-43F4-BF5E-484A8EC75C4B}|NFTSolution.BL\\NFTSolution.BL.csproj|solutionrelative:nftsolution.bl\\exceptions\\marketexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D86D543-701B-448A-B464-5750CDB5138F}|NFTSolution.MVC\\NFTSolution.MVC.csproj|c:\\users\\acer\\source\\repos\\nftsolution\\nftsolution.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D86D543-701B-448A-B464-5750CDB5138F}|NFTSolution.MVC\\NFTSolution.MVC.csproj|solutionrelative:nftsolution.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D86D543-701B-448A-B464-5750CDB5138F}|NFTSolution.MVC\\NFTSolution.MVC.csproj|c:\\users\\acer\\source\\repos\\nftsolution\\nftsolution.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6D86D543-701B-448A-B464-5750CDB5138F}|NFTSolution.MVC\\NFTSolution.MVC.csproj|solutionrelative:nftsolution.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D86D543-701B-448A-B464-5750CDB5138F}|NFTSolution.MVC\\NFTSolution.MVC.csproj|c:\\users\\acer\\source\\repos\\nftsolution\\nftsolution.mvc\\nftsolution.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6D86D543-701B-448A-B464-5750CDB5138F}|NFTSolution.MVC\\NFTSolution.MVC.csproj|solutionrelative:nftsolution.mvc\\nftsolution.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A81E33-F767-4381-A017-341F75EBA211}|NFTSolution.DAL\\NFTSolution.DAL.csproj|c:\\users\\acer\\source\\repos\\nftsolution\\nftsolution.dal\\migrations\\20250516203704_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A81E33-F767-4381-A017-341F75EBA211}|NFTSolution.DAL\\NFTSolution.DAL.csproj|solutionrelative:nftsolution.dal\\migrations\\20250516203704_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D86D543-701B-448A-B464-5750CDB5138F}|NFTSolution.MVC\\NFTSolution.MVC.csproj|c:\\users\\acer\\source\\repos\\nftsolution\\nftsolution.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D86D543-701B-448A-B464-5750CDB5138F}|NFTSolution.MVC\\NFTSolution.MVC.csproj|solutionrelative:nftsolution.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D86D543-701B-448A-B464-5750CDB5138F}|NFTSolution.MVC\\NFTSolution.MVC.csproj|c:\\users\\acer\\source\\repos\\nftsolution\\nftsolution.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D86D543-701B-448A-B464-5750CDB5138F}|NFTSolution.MVC\\NFTSolution.MVC.csproj|solutionrelative:nftsolution.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A81E33-F767-4381-A017-341F75EBA211}|NFTSolution.DAL\\NFTSolution.DAL.csproj|c:\\users\\acer\\source\\repos\\nftsolution\\nftsolution.dal\\migrations\\20250516203933_createmarketstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A81E33-F767-4381-A017-341F75EBA211}|NFTSolution.DAL\\NFTSolution.DAL.csproj|solutionrelative:nftsolution.dal\\migrations\\20250516203933_createmarketstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NFTSolution\\NFTSolution.MVC\\Areas\\Admin\\Views\\Market\\Create.cshtml",
+              "RelativeDocumentMoniker": "NFTSolution.MVC\\Areas\\Admin\\Views\\Market\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NFTSolution\\NFTSolution.MVC\\Areas\\Admin\\Views\\Market\\Create.cshtml",
+              "RelativeToolTip": "NFTSolution.MVC\\Areas\\Admin\\Views\\Market\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T22:19:43.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MarketController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NFTSolution\\NFTSolution.MVC\\Areas\\Admin\\Controllers\\MarketController.cs",
+              "RelativeDocumentMoniker": "NFTSolution.MVC\\Areas\\Admin\\Controllers\\MarketController.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NFTSolution\\NFTSolution.MVC\\Areas\\Admin\\Controllers\\MarketController.cs",
+              "RelativeToolTip": "NFTSolution.MVC\\Areas\\Admin\\Controllers\\MarketController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T20:59:58.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NFTSolution\\NFTSolution.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NFTSolution.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NFTSolution\\NFTSolution.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NFTSolution.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T20:03:40.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MarketService.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NFTSolution\\NFTSolution.BL\\Services\\MarketService.cs",
+              "RelativeDocumentMoniker": "NFTSolution.BL\\Services\\MarketService.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NFTSolution\\NFTSolution.BL\\Services\\MarketService.cs",
+              "RelativeToolTip": "NFTSolution.BL\\Services\\MarketService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T20:44:20.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NFTSolution\\NFTSolution.MVC\\Areas\\Admin\\Views\\Market\\Update.cshtml",
+              "RelativeDocumentMoniker": "NFTSolution.MVC\\Areas\\Admin\\Views\\Market\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NFTSolution\\NFTSolution.MVC\\Areas\\Admin\\Views\\Market\\Update.cshtml",
+              "RelativeToolTip": "NFTSolution.MVC\\Areas\\Admin\\Views\\Market\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwCAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T22:21:20.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NFTSolution\\NFTSolution.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "NFTSolution.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NFTSolution\\NFTSolution.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "NFTSolution.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T20:03:48.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Info.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NFTSolution\\NFTSolution.MVC\\Areas\\Admin\\Views\\Market\\Info.cshtml",
+              "RelativeDocumentMoniker": "NFTSolution.MVC\\Areas\\Admin\\Views\\Market\\Info.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NFTSolution\\NFTSolution.MVC\\Areas\\Admin\\Views\\Market\\Info.cshtml",
+              "RelativeToolTip": "NFTSolution.MVC\\Areas\\Admin\\Views\\Market\\Info.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T22:20:12.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NFTSolution\\NFTSolution.MVC\\Areas\\Admin\\Views\\Market\\Index.cshtml",
+              "RelativeDocumentMoniker": "NFTSolution.MVC\\Areas\\Admin\\Views\\Market\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NFTSolution\\NFTSolution.MVC\\Areas\\Admin\\Views\\Market\\Index.cshtml",
+              "RelativeToolTip": "NFTSolution.MVC\\Areas\\Admin\\Views\\Market\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T21:00:15.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NFTSolution\\NFTSolution.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NFTSolution.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NFTSolution\\NFTSolution.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NFTSolution.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T21:00:47.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NFTSolution\\NFTSolution.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "NFTSolution.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NFTSolution\\NFTSolution.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "NFTSolution.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T21:01:04.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NFTSolution\\NFTSolution.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "NFTSolution.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NFTSolution\\NFTSolution.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "NFTSolution.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T21:01:20.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Market.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NFTSolution\\NFTSolution.DAL\\Models\\Market.cs",
+              "RelativeDocumentMoniker": "NFTSolution.DAL\\Models\\Market.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NFTSolution\\NFTSolution.DAL\\Models\\Market.cs",
+              "RelativeToolTip": "NFTSolution.DAL\\Models\\Market.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T20:00:58.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NFTSolution\\NFTSolution.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "NFTSolution.DAL\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NFTSolution\\NFTSolution.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "NFTSolution.DAL\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T20:29:21.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MarketException.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NFTSolution\\NFTSolution.BL\\Exceptions\\MarketException.cs",
+              "RelativeDocumentMoniker": "NFTSolution.BL\\Exceptions\\MarketException.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NFTSolution\\NFTSolution.BL\\Exceptions\\MarketException.cs",
+              "RelativeToolTip": "NFTSolution.BL\\Exceptions\\MarketException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T21:30:30.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NFTSolution\\NFTSolution.MVC\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "NFTSolution.MVC\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NFTSolution\\NFTSolution.MVC\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "NFTSolution.MVC\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-16T20:55:54.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NFTSolution.MVC.csproj",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NFTSolution\\NFTSolution.MVC\\NFTSolution.MVC.csproj",
+              "RelativeDocumentMoniker": "NFTSolution.MVC\\NFTSolution.MVC.csproj",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NFTSolution\\NFTSolution.MVC\\NFTSolution.MVC.csproj",
+              "RelativeToolTip": "NFTSolution.MVC\\NFTSolution.MVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-16T20:53:55.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250516203933_CreateMarketsTable.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NFTSolution\\NFTSolution.DAL\\Migrations\\20250516203933_CreateMarketsTable.cs",
+              "RelativeDocumentMoniker": "NFTSolution.DAL\\Migrations\\20250516203933_CreateMarketsTable.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NFTSolution\\NFTSolution.DAL\\Migrations\\20250516203933_CreateMarketsTable.cs",
+              "RelativeToolTip": "NFTSolution.DAL\\Migrations\\20250516203933_CreateMarketsTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T20:39:33.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NFTSolution\\NFTSolution.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "NFTSolution.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NFTSolution\\NFTSolution.MVC\\Program.cs",
+              "RelativeToolTip": "NFTSolution.MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T19:57:13.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250516203704_Init.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NFTSolution\\NFTSolution.DAL\\Migrations\\20250516203704_Init.cs",
+              "RelativeDocumentMoniker": "NFTSolution.DAL\\Migrations\\20250516203704_Init.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NFTSolution\\NFTSolution.DAL\\Migrations\\20250516203704_Init.cs",
+              "RelativeToolTip": "NFTSolution.DAL\\Migrations\\20250516203704_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T20:37:05.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NFTSolution\\NFTSolution.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NFTSolution.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NFTSolution\\NFTSolution.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NFTSolution.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAUwEoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T20:04:27.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NFTSolution\\NFTSolution.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "NFTSolution.MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NFTSolution\\NFTSolution.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "NFTSolution.MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T20:04:39.4Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
