@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using NFTSolution.BL.Services;
+using NFTSolution.BL.ViewModels;
 using NFTSolution.DAL.Models;
 
 namespace NFTSolution.MVC.Areas.Admin.Controllers
@@ -9,9 +10,9 @@ namespace NFTSolution.MVC.Areas.Admin.Controllers
     {
         private readonly MarketService _marketservices;
 
-        public MarketController()
+        public MarketController(MarketService marketservice)
         {
-            _marketservices = new MarketService();
+            _marketservices = marketservice;
         }
         [HttpGet]
         public IActionResult Index()
@@ -25,16 +26,20 @@ namespace NFTSolution.MVC.Areas.Admin.Controllers
             return View();
         }
         [HttpPost]
-        public IActionResult Create(Market market)
+        public IActionResult Create(MarketVM marketVM)
         {
-            _marketservices.Create(market);
+            if (!ModelState.IsValid)
+            {
+                return BadRequest("Tapilmadii");
+            }
+            _marketservices.Create(marketVM);
             return RedirectToAction(nameof(Index));
         }
         [HttpGet]
         public IActionResult Info(int id)
         {
-            _marketservices.GetMarketById(id);
-            return View();
+           Market markets= _marketservices.GetMarketById(id);
+            return View(markets);
         }
         [HttpGet]
         public IActionResult Update(int id)
@@ -43,9 +48,9 @@ namespace NFTSolution.MVC.Areas.Admin.Controllers
             return View(market);
         }
         [HttpPost]
-        public IActionResult Update(int id,Market market)
+        public IActionResult Update(int id,UpdateMarketVM marketVM)
         {
-            _marketservices.Update(id, market);
+            _marketservices.Update(id, marketVM);
             return RedirectToAction(nameof(Index));
         }
         [HttpGet]

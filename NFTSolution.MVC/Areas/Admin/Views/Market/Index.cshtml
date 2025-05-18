@@ -24,7 +24,7 @@
                                 <td>@item.Name</td>
                                 <td>@item.Count</td>
                                 <td>@item.Category</td>
-                                <td><a img src="~/admin/assets/image/@item.ImgUrl"></a></td>
+                                <td><img src="~/assets/Uploadedimages/@item.ImgUrl"/></td>
 
                                 <td><a asp-controller="Market" asp-action="Info" asp-route-id="@item.Id" type="summit" class="btn btn-primary">Info</a></td>
                                 <td><a asp-controller="Market" asp-action="Update" asp-route-id="@item.Id" type="summit" class="btn-primary">Update</a></td>

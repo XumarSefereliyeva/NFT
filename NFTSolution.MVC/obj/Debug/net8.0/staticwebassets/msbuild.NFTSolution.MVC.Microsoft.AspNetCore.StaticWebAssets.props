@@ -4410,6 +4410,96 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\js\tabs.js'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Uploadedimages\download08a1d069-0c05-4127-83d5-511f7fb18b62.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>NFTSolution.MVC</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/NFTSolution.MVC</BasePath>
+      <RelativePath>assets/Uploadedimages/download08a1d069-0c05-4127-83d5-511f7fb18b62.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>od0zdcpv37</Fingerprint>
+      <Integrity>rBkHfULUyg9ShrEsSqHqE1UABi/6qDp+noWtszu3vSU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Uploadedimages\download08a1d069-0c05-4127-83d5-511f7fb18b62.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Uploadedimages\download51845e21-79df-4012-ad67-4085efef610f.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>NFTSolution.MVC</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/NFTSolution.MVC</BasePath>
+      <RelativePath>assets/Uploadedimages/download51845e21-79df-4012-ad67-4085efef610f.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>od0zdcpv37</Fingerprint>
+      <Integrity>rBkHfULUyg9ShrEsSqHqE1UABi/6qDp+noWtszu3vSU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Uploadedimages\download51845e21-79df-4012-ad67-4085efef610f.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Uploadedimages\download5f84f09e-d6a4-4437-9b69-29064df3479d.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>NFTSolution.MVC</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/NFTSolution.MVC</BasePath>
+      <RelativePath>assets/Uploadedimages/download5f84f09e-d6a4-4437-9b69-29064df3479d.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>od0zdcpv37</Fingerprint>
+      <Integrity>rBkHfULUyg9ShrEsSqHqE1UABi/6qDp+noWtszu3vSU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Uploadedimages\download5f84f09e-d6a4-4437-9b69-29064df3479d.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Uploadedimages\downloade686f20d-af9f-4a08-bc8f-6fac5b819580.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>NFTSolution.MVC</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/NFTSolution.MVC</BasePath>
+      <RelativePath>assets/Uploadedimages/downloade686f20d-af9f-4a08-bc8f-6fac5b819580.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>od0zdcpv37</Fingerprint>
+      <Integrity>rBkHfULUyg9ShrEsSqHqE1UABi/6qDp+noWtszu3vSU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Uploadedimages\downloade686f20d-af9f-4a08-bc8f-6fac5b819580.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Uploadedimages\downloadfde20a96-43c8-41e7-9ba7-e82d992010da.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>NFTSolution.MVC</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/NFTSolution.MVC</BasePath>
+      <RelativePath>assets/Uploadedimages/downloadfde20a96-43c8-41e7-9ba7-e82d992010da.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>od0zdcpv37</Fingerprint>
+      <Integrity>rBkHfULUyg9ShrEsSqHqE1UABi/6qDp+noWtszu3vSU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Uploadedimages\downloadfde20a96-43c8-41e7-9ba7-e82d992010da.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\vendor\bootstrap\css\bootstrap.min.css'))">
       <SourceType>Package</SourceType>
       <SourceId>NFTSolution.MVC</SourceId>

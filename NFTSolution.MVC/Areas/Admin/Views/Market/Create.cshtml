@@ -1,5 +1,6 @@
-﻿@using NFTSolution.DAL.Models
-@model Market
+﻿@using NFTSolution.BL.ViewModels
+@using NFTSolution.DAL.Models
+@model MarketVM
 
 
             <!-- Form Start -->
@@ -25,8 +26,8 @@
                         <input asp-for="Category" class="form-control" id="exampleInputPassword1">
                                 </div>
                                 <div>
-                         <label for="exampleInputPassword1" class="form-label">ImgUrl</label>
-                    <input asp-for="ImgUrl" class="form-control" id="exampleInputPassword1">
+                         <label for="exampleInputPassword1" class="form-label">Img Upload</label>
+                    <input asp-for="ImgFile" class="form-control" id="exampleInputPassword1">
             </div>
                                
                                 <button type="submit" class="btn btn-primary">Create</button>

@@ -8,9 +8,9 @@ namespace NFTSolution.MVC.Controllers
     {
         private readonly MarketService _marketServices;
 
-        public HomeController()
+        public HomeController(MarketService marketservice)
         {
-            _marketServices = new MarketService();
+            _marketServices = marketservice;
         }
         public IActionResult Index()
         {

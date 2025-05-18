@@ -243,6 +243,11 @@ wwwroot\assets\js\isotope.min.js
 wwwroot\assets\js\owl-carousel.js
 wwwroot\assets\js\popup.js
 wwwroot\assets\js\tabs.js
+wwwroot\assets\Uploadedimages\download08a1d069-0c05-4127-83d5-511f7fb18b62.jpg
+wwwroot\assets\Uploadedimages\download51845e21-79df-4012-ad67-4085efef610f.jpg
+wwwroot\assets\Uploadedimages\download5f84f09e-d6a4-4437-9b69-29064df3479d.jpg
+wwwroot\assets\Uploadedimages\downloade686f20d-af9f-4a08-bc8f-6fac5b819580.jpg
+wwwroot\assets\Uploadedimages\downloadfde20a96-43c8-41e7-9ba7-e82d992010da.jpg
 wwwroot\assets\vendor\bootstrap\css\bootstrap.min.css
 wwwroot\assets\vendor\bootstrap\js\bootstrap.min.js
 wwwroot\assets\vendor\jquery\jquery.js

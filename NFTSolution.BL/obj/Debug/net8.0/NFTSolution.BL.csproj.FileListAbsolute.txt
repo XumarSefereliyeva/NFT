@@ -13,3 +13,4 @@ C:\Users\Acer\source\repos\NFTSolution\NFTSolution.BL\obj\Debug\net8.0\NFTSoluti
 C:\Users\Acer\source\repos\NFTSolution\NFTSolution.BL\obj\Debug\net8.0\refint\NFTSolution.BL.dll
 C:\Users\Acer\source\repos\NFTSolution\NFTSolution.BL\obj\Debug\net8.0\NFTSolution.BL.pdb
 C:\Users\Acer\source\repos\NFTSolution\NFTSolution.BL\obj\Debug\net8.0\ref\NFTSolution.BL.dll
+C:\Users\Acer\source\repos\NFTSolution\NFTSolution.BL\obj\Debug\net8.0\NFTSolution.BL.sourcelink.json

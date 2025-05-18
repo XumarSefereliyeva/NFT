@@ -1,3 +1,6 @@
+using NFTSolution.BL.Services;
+using NFTSolution.DAL.Contexts;
+
 namespace NFTSolution.MVC
 {
     public class Program
@@ -6,8 +9,9 @@ namespace NFTSolution.MVC
         {
             var builder = WebApplication.CreateBuilder(args);
             builder.Services.AddControllersWithViews();
-
-
+            builder.Services.AddDbContext<AppDbContext>();
+            builder.Services.AddScoped<MarketService>();
+            
             var app = builder.Build();
             app.UseStaticFiles();
 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NFTSolution.MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a24b1eaf5ce1c4a3e3cb2d8a68fef1c23bc89261")]
 [assembly: System.Reflection.AssemblyProductAttribute("NFTSolution.MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NFTSolution.MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

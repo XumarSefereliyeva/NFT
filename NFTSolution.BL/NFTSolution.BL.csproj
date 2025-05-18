@@ -7,11 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\NFTSolution.DAL\NFTSolution.DAL.csproj" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Features" Version="5.0.17" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="ViewModels\" />
+    <ProjectReference Include="..\NFTSolution.DAL\NFTSolution.DAL.csproj" />
   </ItemGroup>
 
 </Project>
